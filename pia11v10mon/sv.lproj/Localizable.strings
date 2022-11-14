@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  pia11v10mon
+
+  Created by Linna Lux on 2022-11-14.
+  
+*/
+
+"hello" = "Hej världen";
+"welcome %@" = "Välkomen %@";
